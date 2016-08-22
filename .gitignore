@@ -11,6 +11,7 @@
 /gummiboot.so
 /gummibootx64.efi
 /gummibootia32.efi
+/linuxx64.efi.stub
 /stub.so
 /stubx64.efi
 /stubia32.efi
